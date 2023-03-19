@@ -31,7 +31,9 @@ En el curso de programación en vivo vamos a ver las siguientes cosas:
 1. Introducción a Git y GitHub
    1. [Código markdown de ejemplo del README](/docs/ejemplo_readme_MD.md)
 2. Prework
+   1. [Links de descarga de herramientas](/docs/prework.md) 
 3. Introducción a la logica de programación
+   1. [Ejercicios logica de programación](/docs/algoritmos_logica_de_programacion.md)
 4. Matemáticas para programación
    1. Matemáticas discretas
    2. Algebra
