@@ -40,8 +40,9 @@ En el curso de programación en vivo vamos a ver las siguientes cosas:
    3. Aritmética
 5. Inglés para programación
 6. Pseudocódigo (Pseint)
+   1. [Ejercicios de Pseint](/ejercicios%20clase%20psint/)
 7. Introducción a Python
-   1. Básicos
+   1. [Básicos](/ejercicios_python/)
    2. Estructuras de control
    3. Colecciones TODAS
    4. Comprensión de listas
