@@ -35,7 +35,7 @@ Exiten erores en sintaxis, en tiempo de ejecución
 cinco ="5"
 numero = 5
 
-##castear o pastear}
+##castear o pastear
 #parsar: de un tipo de dato string a int
 #string a flotante
 
